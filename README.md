@@ -3,7 +3,7 @@
 
 ## 会社
 
-Name | Website  | Platform | UI | What we do with 
+Name | Website  | Platform | UI | What we do 
 ------------ | ------- | ------- | ------- | -------
 **社名** | https://example.com | Android, iOS, Flutter, Web | React, React Native, Angular, Vue, Ionic, Next.js | **何を行っている会社なのか** 
 
