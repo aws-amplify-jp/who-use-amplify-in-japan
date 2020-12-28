@@ -1,12 +1,11 @@
 # who-use-amplify-in-japan
-List of companies who use Amplify in Japan
+日本でAmplifyを使っている会社のリストです。
 
-## Companies
+## 会社
 
-Name | Website | GitHub | What we do with 
------------- | ------- | ------- | ------- 
-**Your company name** | http://example.com | [@aws-amplify-jp](https://github.com/aws-amplify-jp) | **It would be better to write the concretes.** 
-
+Name | Website  | Platform | UI | What we do with 
+------------ | ------- | ------- | ------- | -------
+**社名** | https://example.com | Android, iOS, Flutter, Web | React, React Native, Angular, Vue, Ionic, Next.js | **何を行っている会社なのか** 
 
 ## See also
 + Node.js: https://github.com/nodejsjp/who-use-nodejs-in-japan
