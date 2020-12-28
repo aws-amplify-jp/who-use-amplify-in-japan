@@ -1,5 +1,5 @@
 # who-use-amplify-in-japan
-List of companies who Amplify in Japan
+List of companies who use Amplify in Japan
 
 ## Companies
 
