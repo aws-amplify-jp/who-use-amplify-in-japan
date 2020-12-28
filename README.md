@@ -5,7 +5,7 @@ List of companies who Amplify in Japan
 
 Name | Website | GitHub | What we do with 
 ------------ | ------- | ------- | ------- 
-**Your company name** | http://example.com | [@nodejsjp](https://github.com/nodejsjp) | **It would be better to write the concretes.** 
+**Your company name** | http://example.com | [@aws-amplify-jp](https://github.com/aws-amplify-jp) | **It would be better to write the concretes.** 
 
 
 ## See also
